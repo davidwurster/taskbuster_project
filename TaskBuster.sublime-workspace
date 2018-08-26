@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dave/taskbuster_project",
+		"/home/dave/taskbuster_project/requirements"
+	],
+	"file_history":
+	[
+		"/home/dave/taskbuster_project/docs/requirements.txt",
+		"/home/dave/taskbuster_project/docs/README.rst",
+		"/home/dave/taskbuster_project/docs/conf.py",
+		"/home/dave/taskbuster_project/docs/index.rst",
+		"/home/dave/taskbuster_project/docs/requirements.rst",
+		"/home/dave/taskbuster_project/docs/quick_start.rst",
+		"/home/dave/taskbuster_project/docs/LICENSE.TXT",
+		"/home/dave/taskbuster_project/docs/conf-example.py",
+		"/home/dave/taskbuster_project/docs/Makefile",
+		"/home/dave/taskbuster_project/Makefile",
+		"/home/dave/taskbuster_project/source/conf.py",
+		"/home/dave/taskbuster_project/.gitignore",
+		"/home/dave/taskbuster_project/requirements/development.txt",
+		"/home/dave/taskbuster_project/conf.py",
+		"/home/dave/taskbuster_project/taskbuster/templates/taskbuster/index.html",
+		"/home/dave/taskbuster_project/functional_tests/test_all_users.py",
+		"/home/dave/taskbuster_project/taskbuster/locale/ca/LC_MESSAGES/django.po",
+		"/home/dave/taskbuster_project/requirements/testing.txt",
+		"/home/dave/taskbuster_project/requirements/base.txt",
+		"/home/dave/taskbuster_project/taskbuster/locale/ca/LC_MESSAGES/django.mo",
+		"/home/dave/taskbuster_project/taskbuster/views.py",
+		"/home/dave/taskbuster_project/taskbuster/settings/base.py",
+		"/home/dave/taskbuster_project/taskbuster/test.py",
+		"/home/dave/taskbuster_project/taskbuster/urls.py",
+		"/home/dave/taskbuster_project/taskbuster/templates/humans.txt",
+		"/home/dave/taskbuster_project/taskbuster/templates/base.html",
+		"/home/dave/taskbuster_project/taskbuster/static/css/main.css",
+		"/home/dave/taskbuster_project/functional_tests/all_users.py",
+		"/home/dave/taskbuster_project/taskbuster/templates/taskbuster/views.py",
+		"/home/dave/taskbuster_project/taskbuster/settings/db.sqlite3",
+		"/home/dave/taskbuster_project/taskbuster/settings/production.py",
+		"/home/dave/taskbuster_project/taskbuster/settings/development.py",
+		"/home/dave/taskbuster_project/requirements/staging.txt",
+		"/home/dave/taskbuster_project/taskbuster/settings/staging.py",
+		"/home/dave/taskbuster_project/taskbuster/settings/testing.py",
+		"/home/dave/taskbuster_project/manage.py",
+		"/home/dave/taskbuster_project/functional_tests/test_allauth.py",
+		"/home/dave/taskbuster_project/taskbuster/fixtures/google_user.json",
+		"/home/dave/taskbuster_project/taskbuster/fixtures/allauth_fixture.json",
+		"/home/dave/taskbuster_project/taskbuster/fixtures/facebook_user.json",
+		"/home/dave/taskbuster_project/functional_tests/google_user.json",
+		"/home/dave/taskbuster_project/taskbuster/locale/es/LC_MESSAGES/django.po",
+		"/home/dave/taskbuster_project/taskbuster/templates/robots.txt",
+		"/home/dave/taskbuster_project/functional_tests/test_all_users_originial.py",
+		"/home/dave/Downloads/initializr/404.html",
+		"/home/dave/Downloads/initializr/humans.txt",
+		"/home/dave/Downloads/initializr/index.html",
+		"/home/dave/Downloads/initializr/robots.txt",
+		"/home/dave/taskbuster_project/taskbuster/.gitignore",
+		"/home/dave/taskbuster_project/all_users.py",
+		"/home/dave/projectfolder",
+		"/home/dave/.config/sublime-text-3/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"build",
+			"locale",
+			"href=\"css/xxx.css\">",
+			"<script src=\"js/",
+			"<link rel=\"stylesheet\" href=",
+			"dirs"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 34.0
+	},
+	"pinned_build_system": "",
+	"project": "TaskBuster.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
