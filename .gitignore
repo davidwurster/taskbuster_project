@@ -4,3 +4,4 @@ TaskBuster.sublime-workspace.coverage
 .coverage
 htmlcov
 _build
+taskbuster/fixtures
